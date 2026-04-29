@@ -38,26 +38,26 @@ Dataset source: Kaggle Financial Transactions Dataset
 
 ## Key Analysis Performed
 1. Customer Spending Behaviour
-- Monthly spending trends per customer
-- Category-wise expenditure distribution
-- Identification of high and low spending users
+  - Monthly spending trends per customer
+  - Category-wise expenditure distribution
+  - Identification of high and low spending users
 2. Cash Flow Analysis
-- Income vs expenses per customer
-- Savings rate estimation
-- Detection of overdraft-like behaviour patterns
+  - Income vs expenses per customer
+  - Savings rate estimation
+  - Detection of overdraft-like behaviour patterns
 3. Customer Segmentation
-- Customers grouped into:
-  - High-value customers (consistent high spending & stable income)
-  - Medium-value customers
-  - High-risk / unstable financial behaviour customers
+  - Customers grouped into:
+    - High-value customers (consistent high spending & stable income)
+    - Medium-value customers
+    - High-risk / unstable financial behaviour customers
 4. Transaction Pattern Analysis
-- Peak spending periods (daily/monthly trends)
-- Frequency of transactions per customer
-- Volatility in spending behaviour
+  - Peak spending periods (daily/monthly trends)
+  - Frequency of transactions per customer
+  - Volatility in spending behaviour
 5. Risk & Anomaly Indicators
-- Unusual spending spikes
-- Irregular transaction patterns
-- High variance in financial activity
+  - Unusual spending spikes
+  - Irregular transaction patterns
+  - High variance in financial activity
 
 ---
 
