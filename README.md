@@ -32,7 +32,6 @@ Dataset source: Kaggle Financial Transactions Dataset
 - Pandas / NumPy – Data manipulation
 - Matplotlib / Seaborn – Data visualization
 - Jupyter Notebook – Exploratory analysis
-- Power BI – Dashboarding
 
 ---
 
